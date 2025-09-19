@@ -112,7 +112,7 @@ REACT_APP_API_URL=/.netlify/functions/api
 
 # Configuración de build
 NODE_VERSION=18
-NPM_VERSION=9
+NPM_VERSION=10
 ```
 
 ### Variables Opcionales

@@ -82,7 +82,7 @@ function optimizeBuild() {
 
 [build.environment]
   NODE_VERSION = "18"
-  NPM_VERSION = "9"
+  NPM_VERSION = "10"
 
 [[redirects]]
   from = "/*"
