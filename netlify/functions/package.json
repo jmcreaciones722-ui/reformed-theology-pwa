@@ -1,0 +1,17 @@
+{
+    "name": "netlify-functions",
+    "version": "1.0.0",
+    "description": "Netlify Functions para PWA de Teología Reformada",
+    "main": "index.js",
+    "dependencies": {
+        "openai": "^4.0.0"
+    },
+    "keywords": [
+        "netlify",
+        "functions",
+        "teologia",
+        "reformada"
+    ],
+    "author": "Juan Pereira y Maria de Pereira",
+    "license": "MIT"
+}
